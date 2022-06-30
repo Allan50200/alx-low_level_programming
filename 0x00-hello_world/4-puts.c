@@ -1,13 +1,18 @@
 #include <stdio.h>
 
 /**
-* main - entry point
-*
-* uses puts function instead
-* return - returns 0
-*/
+ * main - The entry point
+ * Description : using the main function
+ *
+ * this program prints "Programming is like building a multilingual puzzle
+ * return : this program returns 0
+ */
+
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
+
+
