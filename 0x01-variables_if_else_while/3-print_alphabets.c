@@ -3,8 +3,8 @@
  * main - print if the number is postive, zero, or negative
  *
  * Description: using the main function
- * this program prints "Programming is positive, zero, or negative
- * Return: 0
+ * this program prints uppercase, then lower case followed by a new line.
+ * Return: 0 (success)
  */
 
 int main(void)
@@ -15,7 +15,7 @@ int main(void)
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
-	}	
+	}
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
