@@ -5,9 +5,9 @@
 /**
  * main - the entry point
  *
- * Description : using the main function
- * this program prints the last digit 
- * Return : 0
+ * Description: using the main function
+ * this program prints the last digit
+ * Return: 0(success)
  */
 int main(void)
 {
