@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - Print "Holberton"
+ * main - Print "main"
  *
  * Return: Always 0 (Success)
  */
